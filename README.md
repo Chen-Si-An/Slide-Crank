@@ -1,4 +1,4 @@
-# Slider Crank Simulation
+# Slide Crank Simulation
 
 Simulate the motion of slider cranks under MFC application framework.
 
