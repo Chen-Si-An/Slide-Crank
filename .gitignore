@@ -1,3 +1,4 @@
 #Ext
-.sdf
-.suo
+*.sdf
+*.suo
+*.txt
